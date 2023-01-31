@@ -1,3 +1,3 @@
 # to-do-list-app
 
-Simple To Do App using JQuery
+Simple To Do List App using JQuery
